@@ -1,0 +1,12 @@
+#myCarousel {
+  position: relative;
+}
+.carousel-indicator {
+  position: absolute;
+  bottom: 4%;
+  left: 46.7%;
+}
+div.carousel-indicator > button {
+  border: none;
+  padding: 1px 15px 1px 15px;
+}
